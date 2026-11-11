@@ -1,0 +1,519 @@
+transaction_id,transaction_date,description,category,transaction_type,amount_inr,payment_method,account_name,anomaly_flag,anomaly_status,spending_risk,saving_suggestion
+TX00002,2025-01-01,Clothing,Shopping,Expense,3904,Net Banking,Savings Account,1,Review,Normal,Review this unusual transaction
+TX00003,2025-01-01,Exam fee,Education,Expense,2927,UPI,Cash,1,Review,Normal,Review this unusual transaction
+TX00004,2025-01-02,Clinic visit,Healthcare,Expense,1181,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00005,2025-01-02,Cafe,Food,Expense,238,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00006,2025-01-02,Pharmacy,Healthcare,Expense,2087,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00007,2025-01-03,Online course,Education,Expense,3088,UPI,Wallet,1,Review,Normal,Review this unusual transaction
+TX00008,2025-01-03,Cafe,Food,Expense,155,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00009,2025-01-04,Metro,Transport,Expense,87,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00010,2025-01-05,Electronics,Shopping,Expense,780,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00011,2025-01-06,Event,Entertainment,Expense,709,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00012,2025-01-07,Food delivery,Food,Expense,576,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00013,2025-01-08,Books,Education,Expense,2312,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00014,2025-01-08,Restaurant,Food,Expense,320,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00015,2025-01-09,Clinic visit,Healthcare,Expense,1457,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00016,2025-01-09,Restaurant,Food,Expense,603,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00018,2025-01-10,Clothing,Shopping,Expense,1574,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00017,2025-01-10,Groceries,Food,Expense,1494,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00019,2025-01-11,Movie,Entertainment,Expense,550,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00020,2025-01-12,Food delivery,Food,Expense,234,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00021,2025-01-13,Metro,Transport,Expense,230,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00022,2025-01-15,Household items,Shopping,Expense,1905,Net Banking,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00023,2025-01-15,Exam fee,Education,Expense,1192,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00024,2025-01-16,Fuel,Transport,Expense,259,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00025,2025-01-16,Electricity bill,Utilities,Expense,1030,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00026,2025-01-17,Pharmacy,Healthcare,Expense,1921,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00027,2025-01-18,Restaurant,Food,Expense,388,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00028,2025-01-19,Restaurant,Food,Expense,328,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00029,2025-01-20,Food delivery,Food,Expense,340,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00030,2025-01-21,Metro,Transport,Expense,709,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00031,2025-01-22,Fuel,Transport,Expense,500,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00032,2025-01-23,Restaurant,Food,Expense,117,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00033,2025-01-23,Clothing,Shopping,Expense,726,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00034,2025-01-25,Groceries,Food,Expense,1331,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00036,2025-01-26,Mobile recharge,Utilities,Expense,1640,Net Banking,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00035,2025-01-26,Monthly rent,Rent,Expense,6013,UPI,Cash,1,Review,Normal,Review this unusual transaction
+TX00037,2025-01-27,Mutual fund contribution,Investment,Expense,911,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00038,2025-01-28,Mobile recharge,Utilities,Expense,898,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00039,2025-01-28,Cab,Transport,Expense,602,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00040,2025-01-29,Groceries,Food,Expense,134,Cash,Cash,0,Normal,Normal,Spending is within normal range
+TX00041,2025-01-29,Restaurant,Food,Expense,343,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00042,2025-01-29,Restaurant,Food,Expense,562,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00043,2025-01-30,Groceries,Food,Expense,1752,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00044,2025-01-31,Internet bill,Utilities,Expense,1677,Debit Card,Wallet,1,Review,Normal,Review this unusual transaction
+TX00046,2025-02-01,Clothing,Shopping,Expense,4156,UPI,Wallet,1,Review,Normal,Review this unusual transaction
+TX00047,2025-02-01,Cab,Transport,Expense,837,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00048,2025-02-02,Food delivery,Food,Expense,1732,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00049,2025-02-02,Health checkup,Healthcare,Expense,1433,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00050,2025-02-02,Cab,Transport,Expense,25,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00051,2025-02-03,Exam fee,Education,Expense,3746,UPI,Savings Account,1,Review,Normal,Review this unusual transaction
+TX00053,2025-02-04,Mobile recharge,Utilities,Expense,1576,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00052,2025-02-04,Cafe,Food,Expense,655,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00054,2025-02-05,Salon,Personal Care,Expense,401,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00055,2025-02-05,Electronics,Shopping,Expense,1298,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00056,2025-02-06,Food delivery,Food,Expense,410,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00057,2025-02-07,Cafe,Food,Expense,327,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00059,2025-02-08,Restaurant,Food,Expense,175,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00060,2025-02-09,Cab,Transport,Expense,668,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00061,2025-02-10,Cafe,Food,Expense,154,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00062,2025-02-11,Electricity bill,Utilities,Expense,1619,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00063,2025-02-13,Mutual fund contribution,Investment,Expense,629,Cash,Cash,0,Normal,Normal,Spending is within normal range
+TX00064,2025-02-13,Health checkup,Healthcare,Expense,1579,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00065,2025-02-14,Cab,Transport,Expense,492,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00066,2025-02-14,Groceries,Food,Expense,185,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00067,2025-02-15,Fuel,Transport,Expense,387,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00068,2025-02-16,Fixed deposit contribution,Investment,Expense,2177,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00070,2025-02-17,Pharmacy,Healthcare,Expense,273,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00069,2025-02-17,Clothing,Shopping,Expense,1742,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00071,2025-02-18,Food delivery,Food,Expense,428,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00072,2025-02-18,Clothing,Shopping,Expense,2967,Net Banking,Cash,0,Normal,Normal,Spending is within normal range
+TX00073,2025-02-19,Mobile recharge,Utilities,Expense,333,Cash,Cash,0,Normal,Normal,Spending is within normal range
+TX00074,2025-02-19,Mutual fund contribution,Investment,Expense,725,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00075,2025-02-20,Electricity bill,Utilities,Expense,261,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00076,2025-02-21,Books,Education,Expense,2167,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00077,2025-02-21,Food delivery,Food,Expense,1682,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00078,2025-02-22,Exam fee,Education,Expense,991,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00079,2025-02-23,Fuel,Transport,Expense,811,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00080,2025-02-24,Metro,Transport,Expense,669,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00081,2025-02-24,Mutual fund contribution,Investment,Expense,1883,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00082,2025-02-24,Cab,Transport,Expense,594,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00083,2025-02-25,Pharmacy,Healthcare,Expense,2383,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00084,2025-02-25,Clothing,Shopping,Expense,2791,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00085,2025-02-26,Bus,Transport,Expense,747,Net Banking,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00087,2025-02-28,Clothing,Shopping,Expense,4996,UPI,Wallet,1,Review,High,Review this unusual transaction
+TX00086,2025-02-28,Food delivery,Food,Expense,1418,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00090,2025-03-01,Food delivery,Food,Expense,1550,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00092,2025-03-04,Food delivery,Food,Expense,575,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00093,2025-03-04,Mutual fund contribution,Investment,Expense,2503,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00094,2025-03-06,Fuel,Transport,Expense,495,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00095,2025-03-07,Groceries,Food,Expense,1544,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00096,2025-03-07,Fixed deposit contribution,Investment,Expense,2374,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00097,2025-03-08,Household items,Shopping,Expense,3139,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00098,2025-03-08,Food delivery,Food,Expense,727,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00099,2025-03-09,Groceries,Food,Expense,1429,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00100,2025-03-10,Health checkup,Healthcare,Expense,1162,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00101,2025-03-10,Cab,Transport,Expense,467,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00102,2025-03-11,Monthly rent,Rent,Expense,8074,Debit Card,Wallet,1,Review,Normal,Review this unusual transaction
+TX00103,2025-03-12,Bus,Transport,Expense,760,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00104,2025-03-13,Bus,Transport,Expense,299,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00105,2025-03-14,Clinic visit,Healthcare,Expense,1509,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00106,2025-03-14,Electricity bill,Utilities,Expense,1439,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00107,2025-03-15,Electronics,Shopping,Expense,2858,Net Banking,Cash,0,Normal,Normal,Spending is within normal range
+TX00108,2025-03-16,Monthly rent,Rent,Expense,7518,Cash,Wallet,1,Review,Normal,Review this unusual transaction
+TX00109,2025-03-16,Groceries,Food,Expense,930,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00110,2025-03-17,Bus,Transport,Expense,449,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00112,2025-03-18,Subscription,Entertainment,Expense,681,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00113,2025-03-18,Cafe,Food,Expense,1114,Net Banking,Wallet,0,Normal,Normal,Spending is within normal range
+TX00114,2025-03-19,Monthly rent,Rent,Expense,8853,Debit Card,Cash,1,Review,Normal,Review this unusual transaction
+TX00115,2025-03-19,Fuel,Transport,Expense,835,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00116,2025-03-20,Restaurant,Food,Expense,439,Net Banking,Cash,0,Normal,Normal,Spending is within normal range
+TX00117,2025-03-21,Mutual fund contribution,Investment,Expense,2128,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00118,2025-03-21,Food delivery,Food,Expense,755,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00119,2025-03-22,Food delivery,Food,Expense,500,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00120,2025-03-23,Internet bill,Utilities,Expense,496,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00122,2025-03-24,Cafe,Food,Expense,1392,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00121,2025-03-24,Clinic visit,Healthcare,Expense,1435,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00123,2025-03-25,Cab,Transport,Expense,488,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00124,2025-03-25,Salon,Personal Care,Expense,655,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00125,2025-03-26,Electricity bill,Utilities,Expense,979,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00126,2025-03-27,Metro,Transport,Expense,828,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00127,2025-03-28,Monthly rent,Rent,Expense,5712,UPI,Wallet,1,Review,Normal,Review this unusual transaction
+TX00128,2025-03-29,Health checkup,Healthcare,Expense,1813,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00129,2025-03-29,Books,Education,Expense,2014,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00130,2025-03-30,Salon,Personal Care,Expense,181,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00131,2025-03-30,Water bill,Utilities,Expense,848,Net Banking,Wallet,0,Normal,Normal,Spending is within normal range
+TX00132,2025-03-31,Electronics,Shopping,Expense,4857,UPI,Savings Account,1,Review,Normal,Review this unusual transaction
+TX00134,2025-04-01,Cab,Transport,Expense,790,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00135,2025-04-01,Bus,Transport,Expense,881,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00136,2025-04-02,Fixed deposit contribution,Investment,Expense,1611,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00137,2025-04-02,Restaurant,Food,Expense,721,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00139,2025-04-03,Groceries,Food,Expense,164,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00138,2025-04-03,Personal care items,Personal Care,Expense,914,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00141,2025-04-04,Food delivery,Food,Expense,965,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00142,2025-04-04,Clothing,Shopping,Expense,1385,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00143,2025-04-05,Mobile recharge,Utilities,Expense,692,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00144,2025-04-06,Restaurant,Food,Expense,1241,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00145,2025-04-07,Fuel,Transport,Expense,731,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00146,2025-04-08,Mobile recharge,Utilities,Expense,202,Net Banking,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00147,2025-04-08,Groceries,Food,Expense,935,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00148,2025-04-10,Metro,Transport,Expense,416,Net Banking,Cash,0,Normal,Normal,Spending is within normal range
+TX00149,2025-04-10,Water bill,Utilities,Expense,1379,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00150,2025-04-11,Personal care items,Personal Care,Expense,436,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00151,2025-04-12,Restaurant,Food,Expense,1096,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00152,2025-04-13,Water bill,Utilities,Expense,526,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00153,2025-04-14,Clothing,Shopping,Expense,2276,Net Banking,Cash,0,Normal,Normal,Spending is within normal range
+TX00154,2025-04-14,Online course,Education,Expense,1987,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00155,2025-04-14,Clothing,Shopping,Expense,644,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00156,2025-04-17,Restaurant,Food,Expense,1774,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00157,2025-04-20,Monthly rent,Rent,Expense,6563,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00159,2025-04-23,Metro,Transport,Expense,381,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00160,2025-04-24,Food delivery,Food,Expense,1527,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00161,2025-04-25,Mutual fund contribution,Investment,Expense,1707,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00162,2025-04-27,Food delivery,Food,Expense,1304,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00163,2025-04-27,Cafe,Food,Expense,1295,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00165,2025-04-28,Food delivery,Food,Expense,1623,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00164,2025-04-28,Restaurant,Food,Expense,1059,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00166,2025-04-29,Water bill,Utilities,Expense,532,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00167,2025-04-30,Books,Education,Expense,629,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00170,2025-05-03,Clothing,Shopping,Expense,1830,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00171,2025-05-03,Personal care items,Personal Care,Expense,262,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00172,2025-05-04,Electricity bill,Utilities,Expense,344,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00174,2025-05-05,Cafe,Food,Expense,1789,Cash,Cash,0,Normal,Normal,Spending is within normal range
+TX00175,2025-05-06,Groceries,Food,Expense,1321,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00176,2025-05-06,Electronics,Shopping,Expense,1579,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00177,2025-05-07,Salon,Personal Care,Expense,1023,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00178,2025-05-08,Electronics,Shopping,Expense,2835,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00179,2025-05-08,Mutual fund contribution,Investment,Expense,874,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00180,2025-05-09,Cab,Transport,Expense,30,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00181,2025-05-10,Food delivery,Food,Expense,698,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00182,2025-05-10,Event,Entertainment,Expense,379,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00183,2025-05-11,Salon,Personal Care,Expense,811,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00184,2025-05-11,Household items,Shopping,Expense,3748,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00185,2025-05-12,Personal care items,Personal Care,Expense,1048,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00186,2025-05-12,Household items,Shopping,Expense,1141,Net Banking,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00187,2025-05-13,Salon,Personal Care,Expense,792,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00188,2025-05-13,Mobile recharge,Utilities,Expense,1135,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00189,2025-05-14,Restaurant,Food,Expense,661,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00191,2025-05-15,Food delivery,Food,Expense,893,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00190,2025-05-15,Bus,Transport,Expense,135,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00192,2025-05-16,Electricity bill,Utilities,Expense,573,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00193,2025-05-17,Fixed deposit contribution,Investment,Expense,1112,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00194,2025-05-18,Online course,Education,Expense,620,Net Banking,Cash,0,Normal,Normal,Spending is within normal range
+TX00195,2025-05-19,Mutual fund contribution,Investment,Expense,1972,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00196,2025-05-19,Mobile recharge,Utilities,Expense,617,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00197,2025-05-19,Clinic visit,Healthcare,Expense,1066,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00198,2025-05-20,Internet bill,Utilities,Expense,530,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00199,2025-05-20,Metro,Transport,Expense,755,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00200,2025-05-21,Groceries,Food,Expense,1409,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00201,2025-05-21,Food delivery,Food,Expense,386,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00202,2025-05-21,Bus,Transport,Expense,384,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00203,2025-05-22,Fuel,Transport,Expense,491,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00204,2025-05-22,Groceries,Food,Expense,501,Cash,Cash,0,Normal,Normal,Spending is within normal range
+TX00205,2025-05-23,Fuel,Transport,Expense,417,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00206,2025-05-24,Mutual fund contribution,Investment,Expense,1586,Net Banking,Wallet,0,Normal,Normal,Spending is within normal range
+TX00207,2025-05-25,Restaurant,Food,Expense,362,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00208,2025-05-26,Pharmacy,Healthcare,Expense,385,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00209,2025-05-27,Fixed deposit contribution,Investment,Expense,856,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00210,2025-05-28,Fuel,Transport,Expense,432,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00211,2025-05-28,Books,Education,Expense,2699,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00212,2025-05-28,Groceries,Food,Expense,1445,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00213,2025-05-30,Restaurant,Food,Expense,764,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00214,2025-05-31,Fixed deposit contribution,Investment,Expense,880,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00216,2025-06-01,Fuel,Transport,Expense,426,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00217,2025-06-02,Movie,Entertainment,Expense,917,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00218,2025-06-02,Clothing,Shopping,Expense,4479,UPI,Cash,1,Review,Normal,Review this unusual transaction
+TX00219,2025-06-03,Mutual fund contribution,Investment,Expense,2286,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00220,2025-06-04,Internet bill,Utilities,Expense,785,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00221,2025-06-04,Clinic visit,Healthcare,Expense,1066,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00223,2025-06-06,Food delivery,Food,Expense,359,Cash,Cash,0,Normal,Normal,Spending is within normal range
+TX00222,2025-06-06,Clothing,Shopping,Expense,2284,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00224,2025-06-07,Food delivery,Food,Expense,504,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00225,2025-06-08,Cafe,Food,Expense,1733,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00226,2025-06-08,Health checkup,Healthcare,Expense,2387,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00227,2025-06-09,Fuel,Transport,Expense,407,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00228,2025-06-09,Personal care items,Personal Care,Expense,540,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00229,2025-06-09,Fixed deposit contribution,Investment,Expense,2619,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00231,2025-06-10,Fixed deposit contribution,Investment,Expense,1290,Net Banking,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00230,2025-06-10,Cab,Transport,Expense,499,Net Banking,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00232,2025-06-11,Fuel,Transport,Expense,676,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00233,2025-06-11,Pharmacy,Healthcare,Expense,1621,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00234,2025-06-12,Movie,Entertainment,Expense,920,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00236,2025-06-13,Movie,Entertainment,Expense,570,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00237,2025-06-13,Restaurant,Food,Expense,278,Net Banking,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00238,2025-06-14,Health checkup,Healthcare,Expense,562,Net Banking,Cash,0,Normal,Normal,Spending is within normal range
+TX00239,2025-06-15,Online course,Education,Expense,1148,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00241,2025-06-16,Fuel,Transport,Expense,279,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00240,2025-06-16,Groceries,Food,Expense,1221,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00242,2025-06-17,Cafe,Food,Expense,1787,Net Banking,Cash,0,Normal,Normal,Spending is within normal range
+TX00243,2025-06-18,Bus,Transport,Expense,204,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00244,2025-06-19,Event,Entertainment,Expense,595,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00245,2025-06-19,Electronics,Shopping,Expense,3615,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00246,2025-06-20,Restaurant,Food,Expense,1616,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00247,2025-06-20,Groceries,Food,Expense,957,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00249,2025-06-22,Subscription,Entertainment,Expense,874,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00248,2025-06-22,Groceries,Food,Expense,830,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00250,2025-06-23,Restaurant,Food,Expense,239,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00251,2025-06-23,Books,Education,Expense,2915,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00252,2025-06-24,Food delivery,Food,Expense,457,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00253,2025-06-24,Food delivery,Food,Expense,155,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00254,2025-06-25,Cab,Transport,Expense,892,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00255,2025-06-25,Fixed deposit contribution,Investment,Expense,2890,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00256,2025-06-26,Clothing,Shopping,Expense,1221,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00258,2025-06-27,Restaurant,Food,Expense,916,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00257,2025-06-27,Groceries,Food,Expense,993,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00259,2025-06-28,Metro,Transport,Expense,684,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00260,2025-06-29,Restaurant,Food,Expense,621,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00261,2025-06-29,Personal care items,Personal Care,Expense,951,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00262,2025-06-30,Mutual fund contribution,Investment,Expense,2726,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00264,2025-07-01,Food delivery,Food,Expense,1088,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00265,2025-07-01,Bus,Transport,Expense,479,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00266,2025-07-02,Cafe,Food,Expense,1560,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00267,2025-07-03,Personal care items,Personal Care,Expense,135,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00268,2025-07-04,Groceries,Food,Expense,264,Cash,Cash,0,Normal,Normal,Spending is within normal range
+TX00269,2025-07-04,Subscription,Entertainment,Expense,1069,Net Banking,Wallet,0,Normal,Normal,Spending is within normal range
+TX00270,2025-07-05,Mutual fund contribution,Investment,Expense,610,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00271,2025-07-06,Metro,Transport,Expense,487,Net Banking,Cash,0,Normal,Normal,Spending is within normal range
+TX00272,2025-07-06,Cab,Transport,Expense,355,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00273,2025-07-06,Monthly rent,Rent,Expense,6084,UPI,Savings Account,1,Review,Normal,Review this unusual transaction
+TX00274,2025-07-07,Metro,Transport,Expense,607,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00277,2025-07-08,Monthly rent,Rent,Expense,7772,UPI,Savings Account,1,Review,Normal,Review this unusual transaction
+TX00275,2025-07-08,Cab,Transport,Expense,577,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00276,2025-07-08,Mobile recharge,Utilities,Expense,752,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00278,2025-07-09,Electronics,Shopping,Expense,1986,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00279,2025-07-10,Food delivery,Food,Expense,985,Net Banking,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00280,2025-07-10,Electronics,Shopping,Expense,3047,Net Banking,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00281,2025-07-11,Electricity bill,Utilities,Expense,1765,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00282,2025-07-11,Electricity bill,Utilities,Expense,1257,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00283,2025-07-11,Subscription,Entertainment,Expense,435,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00284,2025-07-12,Personal care items,Personal Care,Expense,106,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00285,2025-07-13,Books,Education,Expense,769,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00286,2025-07-14,Food delivery,Food,Expense,1741,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00287,2025-07-14,Bus,Transport,Expense,123,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00288,2025-07-15,Health checkup,Healthcare,Expense,1256,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00289,2025-07-15,Bus,Transport,Expense,133,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00290,2025-07-15,Cafe,Food,Expense,1521,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00292,2025-07-16,Household items,Shopping,Expense,2674,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00294,2025-07-17,Cafe,Food,Expense,448,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00293,2025-07-17,Restaurant,Food,Expense,1080,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00295,2025-07-18,Cab,Transport,Expense,217,Net Banking,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00296,2025-07-18,Electronics,Shopping,Expense,541,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00297,2025-07-18,Metro,Transport,Expense,137,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00298,2025-07-19,Groceries,Food,Expense,1000,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00299,2025-07-19,Salon,Personal Care,Expense,527,Net Banking,Cash,0,Normal,Normal,Spending is within normal range
+TX00300,2025-07-19,Restaurant,Food,Expense,1521,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00301,2025-07-20,Fixed deposit contribution,Investment,Expense,2678,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00302,2025-07-21,Monthly rent,Rent,Expense,7225,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00303,2025-07-21,Mutual fund contribution,Investment,Expense,1215,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00304,2025-07-21,Electronics,Shopping,Expense,2773,Net Banking,Wallet,0,Normal,Normal,Spending is within normal range
+TX00305,2025-07-22,Online course,Education,Expense,3401,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00306,2025-07-23,Household items,Shopping,Expense,3857,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00307,2025-07-23,Bus,Transport,Expense,360,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00308,2025-07-23,Food delivery,Food,Expense,1057,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00309,2025-07-25,Fixed deposit contribution,Investment,Expense,2827,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00312,2025-07-26,Internet bill,Utilities,Expense,1222,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00311,2025-07-26,Groceries,Food,Expense,188,Net Banking,Wallet,0,Normal,Normal,Spending is within normal range
+TX00310,2025-07-26,Groceries,Food,Expense,1048,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00313,2025-07-27,Mutual fund contribution,Investment,Expense,2502,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00314,2025-07-27,Restaurant,Food,Expense,780,Net Banking,Cash,0,Normal,Normal,Spending is within normal range
+TX00315,2025-07-28,Cafe,Food,Expense,731,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00316,2025-07-29,Cafe,Food,Expense,1401,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00317,2025-07-31,Water bill,Utilities,Expense,1693,Net Banking,Wallet,0,Normal,Normal,Spending is within normal range
+TX00319,2025-08-01,Cafe,Food,Expense,916,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00320,2025-08-03,Salon,Personal Care,Expense,411,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00321,2025-08-04,Metro,Transport,Expense,744,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00322,2025-08-04,Clinic visit,Healthcare,Expense,824,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00323,2025-08-05,Fuel,Transport,Expense,611,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00324,2025-08-06,Cafe,Food,Expense,1109,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00325,2025-08-07,Personal care items,Personal Care,Expense,318,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00326,2025-08-07,Mutual fund contribution,Investment,Expense,2506,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00328,2025-08-08,Metro,Transport,Expense,713,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00327,2025-08-08,Online course,Education,Expense,1307,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00329,2025-08-09,Water bill,Utilities,Expense,565,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00330,2025-08-10,Electronics,Shopping,Expense,678,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00331,2025-08-10,Restaurant,Food,Expense,1492,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00332,2025-08-11,Food delivery,Food,Expense,1645,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00333,2025-08-12,Monthly rent,Rent,Expense,6364,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00336,2025-08-13,Books,Education,Expense,3653,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00334,2025-08-13,Fuel,Transport,Expense,227,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00335,2025-08-13,Fixed deposit contribution,Investment,Expense,1679,Cash,Cash,0,Normal,Normal,Spending is within normal range
+TX00338,2025-08-14,Metro,Transport,Expense,440,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00339,2025-08-16,Event,Entertainment,Expense,1179,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00340,2025-08-16,Monthly rent,Rent,Expense,9450,UPI,Cash,1,Review,Normal,Review this unusual transaction
+TX00341,2025-08-17,Cab,Transport,Expense,256,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00342,2025-08-17,Groceries,Food,Expense,464,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00343,2025-08-17,Bus,Transport,Expense,856,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00344,2025-08-18,Movie,Entertainment,Expense,1471,Net Banking,Cash,0,Normal,Normal,Spending is within normal range
+TX00346,2025-08-19,Restaurant,Food,Expense,89,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00345,2025-08-19,Food delivery,Food,Expense,321,Net Banking,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00347,2025-08-20,Fuel,Transport,Expense,242,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00348,2025-08-20,Cafe,Food,Expense,1064,Net Banking,Cash,0,Normal,Normal,Spending is within normal range
+TX00349,2025-08-21,Event,Entertainment,Expense,154,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00350,2025-08-22,Groceries,Food,Expense,377,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00351,2025-08-23,Clothing,Shopping,Expense,2475,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00352,2025-08-23,Cab,Transport,Expense,234,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00353,2025-08-25,Restaurant,Food,Expense,1336,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00354,2025-08-26,Online course,Education,Expense,2618,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00355,2025-08-26,Groceries,Food,Expense,518,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00356,2025-08-27,Bus,Transport,Expense,245,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00357,2025-08-27,Online course,Education,Expense,2629,Net Banking,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00358,2025-08-28,Groceries,Food,Expense,980,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00359,2025-08-28,Clinic visit,Healthcare,Expense,834,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00360,2025-08-29,Household items,Shopping,Expense,4880,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00361,2025-08-29,Clothing,Shopping,Expense,2708,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00362,2025-08-29,Groceries,Food,Expense,809,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00363,2025-08-30,Cab,Transport,Expense,463,Net Banking,Cash,0,Normal,Normal,Spending is within normal range
+TX00364,2025-08-31,Household items,Shopping,Expense,1377,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00365,2025-08-31,Mutual fund contribution,Investment,Expense,2488,Net Banking,Cash,0,Normal,Normal,Spending is within normal range
+TX00367,2025-09-01,Bus,Transport,Expense,887,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00368,2025-09-01,Cab,Transport,Expense,562,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00369,2025-09-02,Personal care items,Personal Care,Expense,967,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00370,2025-09-02,Fuel,Transport,Expense,227,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00371,2025-09-02,Restaurant,Food,Expense,1507,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00372,2025-09-03,Restaurant,Food,Expense,858,Cash,Cash,0,Normal,Normal,Spending is within normal range
+TX00373,2025-09-04,Restaurant,Food,Expense,133,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00374,2025-09-04,Personal care items,Personal Care,Expense,345,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00375,2025-09-04,Mobile recharge,Utilities,Expense,467,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00376,2025-09-06,Health checkup,Healthcare,Expense,992,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00377,2025-09-06,Bus,Transport,Expense,439,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00378,2025-09-07,Fuel,Transport,Expense,875,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00379,2025-09-07,Personal care items,Personal Care,Expense,1170,UPI,Cash,0,Normal,High,Reduce spending in this category
+TX00380,2025-09-08,Groceries,Food,Expense,402,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00381,2025-09-09,Event,Entertainment,Expense,1486,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00382,2025-09-10,Clinic visit,Healthcare,Expense,1156,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00383,2025-09-10,Bus,Transport,Expense,414,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00384,2025-09-11,Groceries,Food,Expense,1379,Cash,Cash,0,Normal,Normal,Spending is within normal range
+TX00385,2025-09-12,Food delivery,Food,Expense,648,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00386,2025-09-12,Cafe,Food,Expense,858,Net Banking,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00387,2025-09-13,Mobile recharge,Utilities,Expense,601,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00388,2025-09-14,Electronics,Shopping,Expense,3145,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00389,2025-09-15,Food delivery,Food,Expense,207,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00390,2025-09-16,Subscription,Entertainment,Expense,749,Cash,Cash,0,Normal,Normal,Spending is within normal range
+TX00391,2025-09-17,Fixed deposit contribution,Investment,Expense,1681,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00392,2025-09-17,Internet bill,Utilities,Expense,1798,UPI,Wallet,0,Normal,High,Reduce spending in this category
+TX00393,2025-09-18,Fuel,Transport,Expense,474,Net Banking,Wallet,0,Normal,Normal,Spending is within normal range
+TX00394,2025-09-18,Bus,Transport,Expense,538,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00395,2025-09-18,Cafe,Food,Expense,243,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00396,2025-09-20,Mutual fund contribution,Investment,Expense,2917,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00397,2025-09-21,Online course,Education,Expense,1440,Net Banking,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00398,2025-09-22,Event,Entertainment,Expense,604,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00399,2025-09-22,Cafe,Food,Expense,573,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00400,2025-09-23,Internet bill,Utilities,Expense,679,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00401,2025-09-23,Restaurant,Food,Expense,1685,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00402,2025-09-23,Monthly rent,Rent,Expense,9694,Net Banking,Wallet,1,Review,Normal,Review this unusual transaction
+TX00403,2025-09-24,Online course,Education,Expense,3851,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00404,2025-09-24,Electricity bill,Utilities,Expense,1030,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00405,2025-09-25,Metro,Transport,Expense,393,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00406,2025-09-25,Event,Entertainment,Expense,364,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00407,2025-09-26,Restaurant,Food,Expense,1759,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00408,2025-09-28,Groceries,Food,Expense,1208,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00409,2025-09-29,Bus,Transport,Expense,357,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00411,2025-09-30,Personal care items,Personal Care,Expense,471,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00414,2025-10-01,Cab,Transport,Expense,284,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00413,2025-10-01,Water bill,Utilities,Expense,1732,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00415,2025-10-02,Clothing,Shopping,Expense,1891,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00416,2025-10-03,Movie,Entertainment,Expense,1002,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00417,2025-10-03,Fuel,Transport,Expense,566,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00418,2025-10-04,Bus,Transport,Expense,57,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00419,2025-10-05,Mutual fund contribution,Investment,Expense,1832,Net Banking,Wallet,0,Normal,Normal,Spending is within normal range
+TX00421,2025-10-06,Fixed deposit contribution,Investment,Expense,990,Net Banking,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00422,2025-10-06,Groceries,Food,Expense,1027,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00423,2025-10-07,Electricity bill,Utilities,Expense,953,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00424,2025-10-08,Fuel,Transport,Expense,86,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00425,2025-10-08,Fixed deposit contribution,Investment,Expense,826,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00426,2025-10-09,Fixed deposit contribution,Investment,Expense,937,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00427,2025-10-10,Movie,Entertainment,Expense,1200,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00428,2025-10-11,Fixed deposit contribution,Investment,Expense,2817,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00429,2025-10-11,Household items,Shopping,Expense,4310,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00430,2025-10-12,Bus,Transport,Expense,438,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00431,2025-10-13,Fixed deposit contribution,Investment,Expense,1128,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00432,2025-10-14,Groceries,Food,Expense,1603,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00433,2025-10-15,Metro,Transport,Expense,627,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00435,2025-10-16,Fuel,Transport,Expense,309,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00436,2025-10-16,Restaurant,Food,Expense,103,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00437,2025-10-17,Internet bill,Utilities,Expense,449,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00438,2025-10-18,Groceries,Food,Expense,966,Net Banking,Cash,0,Normal,Normal,Spending is within normal range
+TX00440,2025-10-19,Food delivery,Food,Expense,1114,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00441,2025-10-19,Fixed deposit contribution,Investment,Expense,2958,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00442,2025-10-20,Bus,Transport,Expense,411,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00443,2025-10-21,Monthly rent,Rent,Expense,5015,Net Banking,Wallet,0,Normal,Normal,Spending is within normal range
+TX00444,2025-10-21,Bus,Transport,Expense,36,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00445,2025-10-22,Cafe,Food,Expense,1707,Net Banking,Wallet,0,Normal,Normal,Spending is within normal range
+TX00448,2025-10-23,Water bill,Utilities,Expense,1651,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00447,2025-10-23,Restaurant,Food,Expense,851,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00446,2025-10-23,Cafe,Food,Expense,1596,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00450,2025-10-24,Cafe,Food,Expense,1309,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00451,2025-10-25,Metro,Transport,Expense,614,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00452,2025-10-26,Electricity bill,Utilities,Expense,552,Net Banking,Wallet,0,Normal,Normal,Spending is within normal range
+TX00453,2025-10-26,Cafe,Food,Expense,669,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00454,2025-10-27,Food delivery,Food,Expense,590,Net Banking,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00455,2025-10-27,Household items,Shopping,Expense,3092,Net Banking,Cash,0,Normal,Normal,Spending is within normal range
+TX00456,2025-10-28,Internet bill,Utilities,Expense,1504,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00458,2025-10-29,Groceries,Food,Expense,525,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00459,2025-10-29,Food delivery,Food,Expense,493,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00460,2025-10-29,Restaurant,Food,Expense,1650,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00462,2025-10-31,Exam fee,Education,Expense,2478,Net Banking,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00464,2025-11-01,Exam fee,Education,Expense,458,Cash,Wallet,1,Review,Normal,Review this unusual transaction
+TX00465,2025-11-02,Event,Entertainment,Expense,1354,Net Banking,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00466,2025-11-02,Food delivery,Food,Expense,1675,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00467,2025-11-04,Internet bill,Utilities,Expense,258,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00468,2025-11-04,Restaurant,Food,Expense,1764,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00469,2025-11-05,Bus,Transport,Expense,414,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00470,2025-11-06,Fuel,Transport,Expense,672,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00471,2025-11-07,Fuel,Transport,Expense,246,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00472,2025-11-08,Fixed deposit contribution,Investment,Expense,518,Net Banking,Wallet,0,Normal,Normal,Spending is within normal range
+TX00473,2025-11-09,Groceries,Food,Expense,1522,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00474,2025-11-10,Cafe,Food,Expense,687,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00475,2025-11-10,Electricity bill,Utilities,Expense,200,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00476,2025-11-10,Mobile recharge,Utilities,Expense,601,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00477,2025-11-11,Restaurant,Food,Expense,284,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00478,2025-11-11,Household items,Shopping,Expense,2531,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00479,2025-11-12,Salon,Personal Care,Expense,214,Net Banking,Wallet,0,Normal,Normal,Spending is within normal range
+TX00482,2025-11-14,Household items,Shopping,Expense,1378,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00481,2025-11-14,Bus,Transport,Expense,291,Cash,Cash,0,Normal,Normal,Spending is within normal range
+TX00480,2025-11-14,Monthly rent,Rent,Expense,6631,UPI,Wallet,1,Review,Normal,Review this unusual transaction
+TX00483,2025-11-15,Clothing,Shopping,Expense,2312,Net Banking,Cash,0,Normal,Normal,Spending is within normal range
+TX00484,2025-11-16,Monthly rent,Rent,Expense,8743,UPI,Cash,1,Review,Normal,Review this unusual transaction
+TX00485,2025-11-18,Bus,Transport,Expense,493,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00486,2025-11-19,Fuel,Transport,Expense,630,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00487,2025-11-20,Electricity bill,Utilities,Expense,744,Cash,Cash,0,Normal,Normal,Spending is within normal range
+TX00488,2025-11-20,Restaurant,Food,Expense,1303,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00489,2025-11-20,Bus,Transport,Expense,889,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00490,2025-11-21,Internet bill,Utilities,Expense,237,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00491,2025-11-21,Clinic visit,Healthcare,Expense,1610,Cash,Cash,0,Normal,Normal,Spending is within normal range
+TX00492,2025-11-23,Subscription,Entertainment,Expense,1151,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00493,2025-11-24,Cafe,Food,Expense,403,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00494,2025-11-24,Online course,Education,Expense,516,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00495,2025-11-25,Monthly rent,Rent,Expense,9861,UPI,Cash,1,Review,Normal,Review this unusual transaction
+TX00496,2025-11-25,Household items,Shopping,Expense,341,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00499,2025-11-26,Internet bill,Utilities,Expense,833,Net Banking,Cash,0,Normal,Normal,Spending is within normal range
+TX00498,2025-11-26,Monthly rent,Rent,Expense,7181,UPI,Wallet,1,Review,Normal,Review this unusual transaction
+TX00497,2025-11-26,Books,Education,Expense,1001,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00500,2025-11-27,Restaurant,Food,Expense,1391,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00501,2025-11-28,Fixed deposit contribution,Investment,Expense,936,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00502,2025-11-30,Groceries,Food,Expense,290,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00503,2025-11-30,Electricity bill,Utilities,Expense,947,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00504,2025-11-30,Restaurant,Food,Expense,1346,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00506,2025-12-01,Groceries,Food,Expense,639,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00507,2025-12-02,Food delivery,Food,Expense,1332,Cash,Cash,0,Normal,Normal,Spending is within normal range
+TX00508,2025-12-02,Groceries,Food,Expense,597,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00509,2025-12-03,Metro,Transport,Expense,772,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00510,2025-12-04,Food delivery,Food,Expense,1064,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00511,2025-12-04,Salon,Personal Care,Expense,625,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00512,2025-12-04,Restaurant,Food,Expense,1504,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00513,2025-12-05,Monthly rent,Rent,Expense,7607,UPI,Cash,1,Review,Normal,Review this unusual transaction
+TX00515,2025-12-06,Movie,Entertainment,Expense,237,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00514,2025-12-06,Internet bill,Utilities,Expense,720,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00516,2025-12-07,Mutual fund contribution,Investment,Expense,521,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00517,2025-12-07,Cafe,Food,Expense,1541,Cash,Cash,0,Normal,Normal,Spending is within normal range
+TX00519,2025-12-08,Mutual fund contribution,Investment,Expense,2928,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00520,2025-12-09,Exam fee,Education,Expense,671,Cash,Cash,0,Normal,Normal,Spending is within normal range
+TX00521,2025-12-10,Mobile recharge,Utilities,Expense,1369,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00522,2025-12-11,Bus,Transport,Expense,841,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00523,2025-12-11,Groceries,Food,Expense,750,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00524,2025-12-11,Fixed deposit contribution,Investment,Expense,668,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00525,2025-12-13,Cafe,Food,Expense,175,Debit Card,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00526,2025-12-13,Event,Entertainment,Expense,1161,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00527,2025-12-14,Fixed deposit contribution,Investment,Expense,648,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00528,2025-12-14,Books,Education,Expense,1861,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00529,2025-12-15,Fuel,Transport,Expense,758,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00530,2025-12-16,Household items,Shopping,Expense,2111,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00532,2025-12-17,Water bill,Utilities,Expense,564,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00531,2025-12-17,Internet bill,Utilities,Expense,142,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00533,2025-12-18,Cafe,Food,Expense,105,Cash,Wallet,0,Normal,Normal,Spending is within normal range
+TX00534,2025-12-19,Cab,Transport,Expense,542,Debit Card,Cash,0,Normal,Normal,Spending is within normal range
+TX00535,2025-12-20,Groceries,Food,Expense,1427,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00536,2025-12-21,Food delivery,Food,Expense,722,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00537,2025-12-22,Exam fee,Education,Expense,3246,UPI,Cash,1,Review,Normal,Review this unusual transaction
+TX00538,2025-12-23,Food delivery,Food,Expense,1127,Cash,Cash,0,Normal,Normal,Spending is within normal range
+TX00539,2025-12-24,Food delivery,Food,Expense,1365,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00540,2025-12-25,Event,Entertainment,Expense,147,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00541,2025-12-25,Fixed deposit contribution,Investment,Expense,2148,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00542,2025-12-25,Fuel,Transport,Expense,585,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00543,2025-12-26,Movie,Entertainment,Expense,604,UPI,Cash,0,Normal,Normal,Spending is within normal range
+TX00544,2025-12-27,Water bill,Utilities,Expense,1033,Debit Card,Wallet,0,Normal,Normal,Spending is within normal range
+TX00545,2025-12-28,Fixed deposit contribution,Investment,Expense,623,Cash,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00546,2025-12-29,Household items,Shopping,Expense,3212,Net Banking,Savings Account,1,Review,Normal,Review this unusual transaction
+TX00547,2025-12-29,Water bill,Utilities,Expense,396,UPI,Savings Account,0,Normal,Normal,Spending is within normal range
+TX00548,2025-12-30,Fuel,Transport,Expense,30,UPI,Wallet,0,Normal,Normal,Spending is within normal range
+TX00549,2025-12-31,Mutual fund contribution,Investment,Expense,1611,UPI,Cash,0,Normal,Normal,Spending is within normal range
