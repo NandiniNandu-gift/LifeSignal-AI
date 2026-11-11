@@ -5,6 +5,9 @@
 An end-to-end personal finance analytics project
 that analyzes income, expenses, spending patterns,
 and unusual transactions.
+## Dashboard Preview
+
+![LIFE SIGNAL AI Dashboard](dashboard_preview.png)
 
 ### Technologies Used
 - Python
