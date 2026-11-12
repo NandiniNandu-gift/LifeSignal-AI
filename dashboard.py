@@ -2,8 +2,19 @@ import streamlit as st
 import pandas as pd
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
-input_file = ROOT / "Data" / "Cleaned" / "personal_finance_cleaned.csv"
+APP_DIR = Path(__file__).resolve().parent
+csv_name = "personal_finance_cleaned.csv"
+
+# Check common locations: app folder, repository Data/Cleaned folder,
+# and the parent folder (when dashboard.py is inside Python/).
+possible_paths = [
+    APP_DIR / "Data" / "Cleaned" / csv_name,
+    APP_DIR.parent / "Data" / "Cleaned" / csv_name,
+    APP_DIR / csv_name,
+    APP_DIR.parent / csv_name,
+]
+
+input_file = next((path for path in possible_paths if path.exists()), None)
 
 st.set_page_config(
     page_title="LifeSignal AI",
@@ -14,8 +25,12 @@ st.set_page_config(
 st.title("💰 LifeSignal AI")
 st.subheader("Personal Finance Intelligence Dashboard")
 
-if not input_file.exists():
-    st.error("Please run data cleaning first.")
+if input_file is None:
+    st.error(
+        "Cleaned CSV file not found. Upload "
+        "`personal_finance_cleaned.csv` to the repository root or "
+        "`Data/Cleaned/` folder."
+    )
     st.stop()
 
 df = pd.read_csv(input_file, parse_dates=["transaction_date"])
